@@ -1,3 +1,5 @@
 installing tutorial:
-#to install: pyinstaller main.py --onefile
-#pack install: pip install pipreqs, pip install pytube
+
+.py to .exe -> pyinstaller main.py --onefile
+
+requirments.txt install -> pip install pipreqs; pip install pytube
